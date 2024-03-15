@@ -42,7 +42,7 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
 
   s.add_dependency 'ansi'
-  s.add_dependency 'elasticsearch'
+  s.add_dependency 'opensearch-ruby'
 
   s.add_development_dependency 'awesome_print'
   s.add_development_dependency 'bundler'
