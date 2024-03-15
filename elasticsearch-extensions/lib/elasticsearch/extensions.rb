@@ -17,7 +17,7 @@
 
 # encoding: utf-8
 
-require 'elasticsearch'
+require 'opensearch-ruby'
 require 'elasticsearch/extensions/version'
 
 module Elasticsearch
